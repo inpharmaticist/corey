@@ -352,6 +352,13 @@
 	--button-border:1px solid #FFFFFF;
 }
 
+/* Nostr */
+.button-nostr {
+    --button-text: #ffffff;
+    --button-background: #813d9c;
+    --button-border: 1px solid #FFFFFF;
+}
+
 /* Notion */
 .button-notion {
 	--button-text:#000000;
