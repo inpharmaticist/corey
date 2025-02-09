@@ -354,9 +354,9 @@
 
 /* Nostr */
 .button-nostr {
-    --button-text: #ffffff;
-    --button-background: #813d9c;
-    --button-border: 1px solid #FFFFFF;
+	--button-text: #ffffff;
+	--button-background: #813d9c;
+	--button-border: 1px solid #FFFFFF;
 }
 
 /* Notion */
