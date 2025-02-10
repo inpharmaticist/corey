@@ -97,6 +97,13 @@
   --button-border:1px solid #FFFFFF;
 }
 
+/* Bitcoin Help */
+.button-bitcoin {
+	--button-text: #ffffff;
+	--button-background: #f7931a;
+	--button-border: 1px solid #FFFFFF;
+}
+
 /* Bluesky */
 .button-bluesky {
 	--button-text:#FFFFFF;
