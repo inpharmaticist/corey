@@ -420,6 +420,13 @@
 	--button-background:#FF4500;
 }
 
+ /* SD Bitcoiners */
+.button-sd-bitcoiners {
+	--button-text: #ffffff;
+	--button-background: #313159;
+	--button-border: 1px solid #FFFFFF;
+}
+
 /* Shop */
 .button-shop {
 	--button-text:#ffffff;
